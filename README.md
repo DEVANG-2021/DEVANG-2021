@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devang Parmar</h1>
-<h3 align="center">A passionate Software Engineer from Windsor, CANADA</h3>
+<h3 align="center">A passionate Software Engineer from Toronto, ON, CANADA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devang-2021&label=Profile%20views&color=0e75b6&style=flat" alt="devang-2021" /> </p>
 
